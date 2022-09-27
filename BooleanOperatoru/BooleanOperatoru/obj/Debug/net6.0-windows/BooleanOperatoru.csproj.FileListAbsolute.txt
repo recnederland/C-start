@@ -1,0 +1,17 @@
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\bin\Debug\net6.0-windows\BooleanOperatoru.exe
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\bin\Debug\net6.0-windows\BooleanOperatoru.deps.json
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\bin\Debug\net6.0-windows\BooleanOperatoru.runtimeconfig.json
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\bin\Debug\net6.0-windows\BooleanOperatoru.dll
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\bin\Debug\net6.0-windows\BooleanOperatoru.pdb
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\obj\Debug\net6.0-windows\BooleanOperatoru.csproj.AssemblyReference.cache
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\obj\Debug\net6.0-windows\BooleanOperatoru.Form1.resources
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\obj\Debug\net6.0-windows\BooleanOperatoru.csproj.GenerateResource.cache
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\obj\Debug\net6.0-windows\BooleanOperatoru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\obj\Debug\net6.0-windows\BooleanOperatoru.AssemblyInfoInputs.cache
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\obj\Debug\net6.0-windows\BooleanOperatoru.AssemblyInfo.cs
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\obj\Debug\net6.0-windows\BooleanOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\obj\Debug\net6.0-windows\BooleanOperatoru.dll
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\obj\Debug\net6.0-windows\refint\BooleanOperatoru.dll
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\obj\Debug\net6.0-windows\BooleanOperatoru.pdb
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\obj\Debug\net6.0-windows\BooleanOperatoru.genruntimeconfig.cache
+C:\Users\rec\source\repos\C# Dersleri\BooleanOperatoru\BooleanOperatoru\obj\Debug\net6.0-windows\ref\BooleanOperatoru.dll

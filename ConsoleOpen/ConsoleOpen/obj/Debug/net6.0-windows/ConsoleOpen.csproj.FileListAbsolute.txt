@@ -1,0 +1,17 @@
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\bin\Debug\net6.0-windows\ConsoleOpen.exe
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\bin\Debug\net6.0-windows\ConsoleOpen.deps.json
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\bin\Debug\net6.0-windows\ConsoleOpen.runtimeconfig.json
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\bin\Debug\net6.0-windows\ConsoleOpen.dll
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\bin\Debug\net6.0-windows\ConsoleOpen.pdb
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\obj\Debug\net6.0-windows\ConsoleOpen.csproj.AssemblyReference.cache
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\obj\Debug\net6.0-windows\ConsoleOpen.Form1.resources
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\obj\Debug\net6.0-windows\ConsoleOpen.csproj.GenerateResource.cache
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\obj\Debug\net6.0-windows\ConsoleOpen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\obj\Debug\net6.0-windows\ConsoleOpen.AssemblyInfoInputs.cache
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\obj\Debug\net6.0-windows\ConsoleOpen.AssemblyInfo.cs
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\obj\Debug\net6.0-windows\ConsoleOpen.csproj.CoreCompileInputs.cache
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\obj\Debug\net6.0-windows\ConsoleOpen.dll
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\obj\Debug\net6.0-windows\refint\ConsoleOpen.dll
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\obj\Debug\net6.0-windows\ConsoleOpen.pdb
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\obj\Debug\net6.0-windows\ConsoleOpen.genruntimeconfig.cache
+C:\Users\rec\source\repos\C# Dersleri\ConsoleOpen\ConsoleOpen\obj\Debug\net6.0-windows\ref\ConsoleOpen.dll

@@ -1,0 +1,7 @@
+C:\Users\rec\source\repos\C# Dersleri\Console\Console\obj\Debug\net6.0-windows\Console.csproj.AssemblyReference.cache
+C:\Users\rec\source\repos\C# Dersleri\Console\Console\obj\Debug\net6.0-windows\Console.Form1.resources
+C:\Users\rec\source\repos\C# Dersleri\Console\Console\obj\Debug\net6.0-windows\Console.csproj.GenerateResource.cache
+C:\Users\rec\source\repos\C# Dersleri\Console\Console\obj\Debug\net6.0-windows\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rec\source\repos\C# Dersleri\Console\Console\obj\Debug\net6.0-windows\Console.AssemblyInfoInputs.cache
+C:\Users\rec\source\repos\C# Dersleri\Console\Console\obj\Debug\net6.0-windows\Console.AssemblyInfo.cs
+C:\Users\rec\source\repos\C# Dersleri\Console\Console\obj\Debug\net6.0-windows\Console.csproj.CoreCompileInputs.cache
