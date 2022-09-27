@@ -1,0 +1,17 @@
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\bin\Debug\net6.0-windows\AritmetikIslemler.exe
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\bin\Debug\net6.0-windows\AritmetikIslemler.deps.json
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\bin\Debug\net6.0-windows\AritmetikIslemler.runtimeconfig.json
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\bin\Debug\net6.0-windows\AritmetikIslemler.dll
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\bin\Debug\net6.0-windows\AritmetikIslemler.pdb
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\obj\Debug\net6.0-windows\AritmetikIslemler.csproj.AssemblyReference.cache
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\obj\Debug\net6.0-windows\AritmetikIslemler.Form1.resources
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\obj\Debug\net6.0-windows\AritmetikIslemler.csproj.GenerateResource.cache
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\obj\Debug\net6.0-windows\AritmetikIslemler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\obj\Debug\net6.0-windows\AritmetikIslemler.AssemblyInfoInputs.cache
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\obj\Debug\net6.0-windows\AritmetikIslemler.AssemblyInfo.cs
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\obj\Debug\net6.0-windows\AritmetikIslemler.csproj.CoreCompileInputs.cache
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\obj\Debug\net6.0-windows\AritmetikIslemler.dll
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\obj\Debug\net6.0-windows\refint\AritmetikIslemler.dll
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\obj\Debug\net6.0-windows\AritmetikIslemler.pdb
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\obj\Debug\net6.0-windows\AritmetikIslemler.genruntimeconfig.cache
+C:\Users\rec\source\repos\C# Dersleri\AritmetikIslemler\AritmetikIslemler\obj\Debug\net6.0-windows\ref\AritmetikIslemler.dll

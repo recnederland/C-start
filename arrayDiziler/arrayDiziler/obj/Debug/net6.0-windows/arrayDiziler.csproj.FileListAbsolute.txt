@@ -1,0 +1,17 @@
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\bin\Debug\net6.0-windows\arrayDiziler.exe
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\bin\Debug\net6.0-windows\arrayDiziler.deps.json
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\bin\Debug\net6.0-windows\arrayDiziler.runtimeconfig.json
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\bin\Debug\net6.0-windows\arrayDiziler.dll
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\bin\Debug\net6.0-windows\arrayDiziler.pdb
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\obj\Debug\net6.0-windows\arrayDiziler.csproj.AssemblyReference.cache
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\obj\Debug\net6.0-windows\arrayDiziler.Form1.resources
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\obj\Debug\net6.0-windows\arrayDiziler.csproj.GenerateResource.cache
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\obj\Debug\net6.0-windows\arrayDiziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\obj\Debug\net6.0-windows\arrayDiziler.AssemblyInfoInputs.cache
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\obj\Debug\net6.0-windows\arrayDiziler.AssemblyInfo.cs
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\obj\Debug\net6.0-windows\arrayDiziler.csproj.CoreCompileInputs.cache
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\obj\Debug\net6.0-windows\arrayDiziler.dll
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\obj\Debug\net6.0-windows\refint\arrayDiziler.dll
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\obj\Debug\net6.0-windows\arrayDiziler.pdb
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\obj\Debug\net6.0-windows\arrayDiziler.genruntimeconfig.cache
+C:\Users\rec\source\repos\C# Dersleri\arrayDiziler\arrayDiziler\obj\Debug\net6.0-windows\ref\arrayDiziler.dll
